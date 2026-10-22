@@ -1,4 +1,5 @@
-# flappy_flame
+# Exam-Week-Escape
+
 
 an experimental flappy ***birb*** game on flame package
 
@@ -7,7 +8,7 @@ nothing to read here, just build it and play when bored
 ---
 
 ## 🚀 Overview
-Flappy Flame is a simple, addictive side-scrolling game where you control a ***birb*** and try to dodge pipes for as long as your reflexes allow. This project is a playground for the [Flame](https://flame-engine.org/) game engine in Flutter, and for anyone who just wants to procrastinate productively.
+Exam-Week-Escape is a simple, addictive side-scrolling game where you control a ***birb*** and try to dodge pipes for as long as your reflexes allow. This project is a playground for the [Flame](https://flame-engine.org/) game engine in Flutter, and for anyone who just wants to procrastinate productively.
 
 ---
 
@@ -124,7 +125,7 @@ Commit and push it, then in Vercel use: **Root Directory** `vercel-site`,
 
 | Home Screen | Gameplay | Scoreboard |
 |-------------|----------|-----------|
-| ![Home](screenshots/home.png) | ![Game](screenshots/game.png) | ![Scoreboard](screenshots/scoreboard.png) |
+| ![Home](screenshots/scoreboard.jpeg) | ![Game](screenshots/game.png) | ![Scoreboard](screenshots/home.jpeg) |
 
 ---
 
